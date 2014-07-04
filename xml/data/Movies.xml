@@ -1,0 +1,1304 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Version>12.00</Version>
+ </DocumentProperties>
+ <CustomDocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <AXPAuthor dt:dt="string">Girish Singh</AXPAuthor>
+  <AXPDataClassification dt:dt="string">AXP Internal</AXPDataClassification>
+  <AXPDataClassificationForSearch dt:dt="string">AXPInternal_UniqueSearchString</AXPDataClassificationForSearch>
+ </CustomDocumentProperties>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>10005</WindowHeight>
+  <WindowWidth>10005</WindowWidth>
+  <WindowTopX>120</WindowTopX>
+  <WindowTopY>135</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62" ss:Name="Hyperlink">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#0000FF"
+    ss:Underline="Single"/>
+  </Style>
+  <Style ss:ID="s63" ss:Parent="s62">
+   <Alignment ss:Vertical="Bottom"/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Movies">
+  <Names>
+   <NamedRange ss:Name="_FilterDatabase" ss:RefersTo="=Movies!R1C1:R222C1"
+    ss:Hidden="1"/>
+  </Names>
+  <Table ss:ExpandedColumnCount="3" ss:ExpandedRowCount="222" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:Width="264.75"/>
+   <Column ss:Index="3" ss:Width="57.75"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Spice Cinemas Online: Www.Spicecinemas.In</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Please Visit The Website.    Online</Data></Cell>
+    <Cell><Data ss:Type="Number">9820005858</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Inox</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Glomax Mall Pl No 17,18,19 3Road Floorooroor Khargar West   Navi Mumbai410210</Data></Cell>
+    <Cell><Data ss:Type="Number">9820009959</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Inox Online: Www.Inoxmovies.Com</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Please Visit The Website.    Online</Data></Cell>
+    <Cell><Data ss:Type="Number">9820045581</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Inox</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Inox Hyderabad 2 Maheshwari Parmeshwari Mall 5Th Floorooroor Kanchiquda Cross Road  Hyderabad500027</Data></Cell>
+    <Cell><Data ss:Type="Number">9820055150</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Inox</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">2Nd Floorooroor East Blk Manora Town Centre Sadestra Nali Kharadi Bypass Hadapsur   Pune411028</Data></Cell>
+    <Cell><Data ss:Type="Number">9820055168</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Inox</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Bmc Bhavan Mall Unit No 11 Shaheed Nagar Odisha   Bhubaneswar751007</Data></Cell>
+    <Cell><Data ss:Type="Number">9820055176</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Pvr</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Elante Mall Plot Number 178-178A Chandigarh Industrial &amp; Business Park Phase 1 Chandigarh160017</Data></Cell>
+    <Cell><Data ss:Type="Number">9820081222</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Pvr</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">3C Cinema 15 Firoz Gandhi Road Lajpat Nagar-3  Delhi110024</Data></Cell>
+    <Cell><Data ss:Type="Number">9820368736</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Pvr</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">The Phoenix Market City Whitefield Road Opposite Mahadevpura Cmc Mahadevpura Post Bengaluru560001</Data></Cell>
+    <Cell><Data ss:Type="Number">9820392835</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Pvr</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Citi Mal Survey No 41 Village Oshiwara Andheri West   Mumbai400053</Data></Cell>
+    <Cell><Data ss:Type="Number">9820402204</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Pvr</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">5Th Floorooroor Diamond City Mall 68 Jessore Road Opposite Aditya Hospital   Kolkata700055</Data></Cell>
+    <Cell><Data ss:Type="Number">9820413938</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Funcity</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">4Th Floorooroor Oasis Mall Sallarpuria Tech Point Sony Centre Signal Koramangala Intermediate Ring Road  Bengaluru560034</Data></Cell>
+    <Cell><Data ss:Type="Number">9820455574</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Satyam Cineplexes</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Plot No 45 Nehru Place District Centre  New Delhi110019</Data></Cell>
+    <Cell><Data ss:Type="Number">9820464816</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Satyam Cineplexes</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Behind Shadipur Metro Station Patel Nagar   New Delhi110008</Data></Cell>
+    <Cell><Data ss:Type="Number">9820464824</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Satyam Cineplexes</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">District Centre Janak Place   New Delhi110058</Data></Cell>
+    <Cell><Data ss:Type="Number">9820464832</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Satyam Cineplexes</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">2Nd Floorooroor Merion Sky Mall Huda Sec-3 Sonipat Road   Rohtak124001</Data></Cell>
+    <Cell><Data ss:Type="Number">9820464840</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Satyam Cineplexes</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">C21 Mall Pu-4 Scheme No 54 Ab Road   Indore452010</Data></Cell>
+    <Cell><Data ss:Type="Number">9820464857</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Satyam Cineplexes</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">3Road Floorooroor Ansal Royal Plaza Near Stadium High Cour Road  Jodhpur342001</Data></Cell>
+    <Cell><Data ss:Type="Number">9820464865</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Satyam Cineplexes</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Empire Mall Api Corner P-80 Chikal Thana Industrial Area  Aurangabad431210</Data></Cell>
+    <Cell><Data ss:Type="Number">9820464873</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Satyam Cineplexes</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Mall Of Mysore Plot No C-1 3Road Floorooroor Opposite Mysore Golf Club Indira Nagar Extn Mg Road  Mysore570010</Data></Cell>
+    <Cell><Data ss:Type="Number">9820464881</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Fame Cinemas</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Raghuleela Mega Mall, Behind Posiar Bus Depot, Off S.V.Road, Kandivali (W),  Mumbai400067</Data></Cell>
+    <Cell><Data ss:Type="Number">9820465094</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Fame Cinemas</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Inorbit Mall New Link Road Near Subkuch Market Malad (West)  Mumbai400064</Data></Cell>
+    <Cell><Data ss:Type="Number">9820465102</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Fame Cinemas</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Nakshatra Cine Shoppositee Rande Road Near Dadar Railway Station Dadar (W)  Mumbai400028</Data></Cell>
+    <Cell><Data ss:Type="Number">9820465110</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Fame Cinemas</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Plot No. 17 Village Mahajan Wadi Thakur Mall Opposite. Hotel Sun Shine Inn Opposite Dahisar Chk Naka Mira Bhayander  Thane401107</Data></Cell>
+    <Cell><Data ss:Type="Number">9820465128</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Fame Cinemas</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Fame Multiplex Raghulila Mall 3Road Floorooroor Opposite. Vashi Railway Vashi  Navi Mumbai400053</Data></Cell>
+    <Cell><Data ss:Type="Number">9820465144</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Fame Cinemas</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Fame Multiplex Neelyog Bldg Patel Chowk R.B. Road Ghatkopar (E) 77  Mumbai400077</Data></Cell>
+    <Cell><Data ss:Type="Number">9820465151</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Fame Cinemas</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Fame Multiplex Project 1St Floorooroor Fun &amp; Shop Mall Opposite.Bhairoba Nallah Fatima Ngr Hadapsar  Pune411013</Data></Cell>
+    <Cell><Data ss:Type="Number">9820465177</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Fame Cinemas</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Old Anuradha Anupama Cinema Next To Hotel Windsor Castle Near Bus Depot Cidco  Aurangabad431001</Data></Cell>
+    <Cell><Data ss:Type="Number">9820465193</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Fame Cinemas</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Old Vijay Mamta Theatre Opposite Prasad Chambers Nashik Pune Road  Nasik422006</Data></Cell>
+    <Cell><Data ss:Type="Number">9820465201</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Fame Cinemas</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Fame Multiplex Seven Seas Mall Near Fategung Post Office Near I P C L Circle Fatigung  Vadodara390007</Data></Cell>
+    <Cell><Data ss:Type="Number">9820465219</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Fame Cinemas</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Fame Multiplex Shalimar Takies Station Road   Bharuch392001</Data></Cell>
+    <Cell><Data ss:Type="Number">9820465227</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Fame Cinemas</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">City Pulse Theaters Ltd. Opposite. Chinnar Gulnar Near. Hero Honda Showroom S.N. Motors Anand Vidyanagar Road.  Anand388001</Data></Cell>
+    <Cell><Data ss:Type="Number">9820465235</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Fame Cinemas</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Next To Ista Hotel Off M.G.Road Ulsoor  Bengaluru560008</Data></Cell>
+    <Cell><Data ss:Type="Number">9820465243</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Fame Cinemas</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Public Utility Bldg M G Road   Bengaluru560001</Data></Cell>
+    <Cell><Data ss:Type="Number">9820465250</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Fame Cinemas</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Prestige Forum Value Mall Infront Of Prestige Ozone Survey No. 62 Near Varthur Kodi White Field Road  Bengaluru560066</Data></Cell>
+    <Cell><Data ss:Type="Number">9820465268</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Fame Cinemas</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">National Chandra Mall Old 92 New 262 Arcort Road Vurugambakkam  Chennai600004</Data></Cell>
+    <Cell><Data ss:Type="Number">9820465276</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Fame Cinemas</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Metropolis Mall Hiland Park Opposite Pearless Hospital E.M.By Pass  Kolkata700094</Data></Cell>
+    <Cell><Data ss:Type="Number">9820465284</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Fame Cinemas</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Southcity Projects Ltd 375 Prince Anwar Shah Road   Kolkata700068</Data></Cell>
+    <Cell><Data ss:Type="Number">9820465292</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Fame Cinemas</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Galleria Mall Saraidhela Sahyogi Nagar Sector 2 Govindpur Road  Dhanbad828104</Data></Cell>
+    <Cell><Data ss:Type="Number">9820465300</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Fame Cinemas</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Fame Multiplex 4 Th Floorooroor Shalimar Mega Mall Sector 5  Panchkula134114</Data></Cell>
+    <Cell><Data ss:Type="Number">9820465318</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Inox</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">1St Floorooroor,Bmc Bhawani Mall Saheed Nagar   Bhubaneswar751007</Data></Cell>
+    <Cell><Data ss:Type="Number">9820465326</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Inox</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">5Th Floorooroor, Lake City Mall Ashok Nagar   Udaipur313001</Data></Cell>
+    <Cell><Data ss:Type="Number">9820465334</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Inox</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">1St Floorooroor,Century 21 Mall Hoshangabad Road, Misrod Tehsil Huzur  Bhopal462001</Data></Cell>
+    <Cell><Data ss:Type="Number">9820465342</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Inox</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">3Road Floorooroor, Ncs Mall Bochu Peta   Vizianagaram535002</Data></Cell>
+    <Cell><Data ss:Type="Number">9820465367</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Pvr</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Funcity Mall Village Patiinsar Opposite Nirulas Panipat  Panipat132103</Data></Cell>
+    <Cell><Data ss:Type="Number">9820479285</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Pvr</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Novelty Mall Pathankot   Pathankot145001</Data></Cell>
+    <Cell><Data ss:Type="Number">9820479293</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Pvr</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Koregaon Park Shoppositeing Complex North Main Road Near Waston Hotel Koregaon Park  Pune411001</Data></Cell>
+    <Cell><Data ss:Type="Number">9820483634</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Movietimes Cineplex Private Limited</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">West Gate Mall Fourth Floorooroor Rajouri Garoaden  New Delhi110027</Data></Cell>
+    <Cell><Data ss:Type="Number">9820635670</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Movietimes Cineplex Private Limited</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Dharam Palace Mall Sector 18   Noida201301</Data></Cell>
+    <Cell><Data ss:Type="Number">9820635688</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Movietimes Cineplex Private Limited</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">The Hub Movietime Multiplex Highway, Goregaon   Mumbai400063</Data></Cell>
+    <Cell><Data ss:Type="Number">9820635696</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Movietimes Cineplex Private Limited</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Malad Linkin Road Malad   Mumbai400054</Data></Cell>
+    <Cell><Data ss:Type="Number">9820635704</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Movietimes Cineplex Private Limited</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Dahisar (E) Rajeshree Maratha Colony, Dahisar  Mumbai400068</Data></Cell>
+    <Cell><Data ss:Type="Number">9820635712</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Movietimes Cineplex Private Limited</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Bandra S V Road, Suburbia   Mumbai400050</Data></Cell>
+    <Cell><Data ss:Type="Number">9820635720</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Movietimes Cineplex Private Limited</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Manmala,Tank Road Tajkal Wadi,Tps 161 Starcity  Mumbai400016</Data></Cell>
+    <Cell><Data ss:Type="Number">9820635738</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Movietimes Cineplex Private Limited</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Pacific Mall,2Nd Floorooroor Kp Block, Pitampura   Delhi110088</Data></Cell>
+    <Cell><Data ss:Type="Number">9820635746</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Movietimes Cineplex Private Limited</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Sector 12,Gt Karnal Road K3C 4Th Floorooroor Mall   Karnal132001</Data></Cell>
+    <Cell><Data ss:Type="Number">9820635753</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Movietimes Cineplex Private Limited</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Canal Road K3C 2Nd Floorooroor, Jammu   Jammu180001</Data></Cell>
+    <Cell><Data ss:Type="Number">9820635779</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Satyam Cinemas Online: Www.Satyamcineplexes.Com</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Please Visit The Website.    Online</Data></Cell>
+    <Cell><Data ss:Type="Number">9820649119</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Pvr</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Pvr Limited Ripples Mall Opposite Of Tipsy Bunder Rode  Vijayawada520001</Data></Cell>
+    <Cell><Data ss:Type="Number">9820655108</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Sangam Big Cinemas</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Near Divine Child School Andheri Kurla Road Andheri E  Mumbai400059</Data></Cell>
+    <Cell><Data ss:Type="Number">9824500490</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">My Cinema</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Thakur Village 120 Dp Road Kandivali East  Mumbai400101</Data></Cell>
+    <Cell><Data ss:Type="Number">9824503403</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Cinemax</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Rna Corporate Park Bldg Opposite. Chetana College Bandra (E)  Mumbai400051</Data></Cell>
+    <Cell><Data ss:Type="Number">9824504385</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Cinemax</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">S.V.Road Near.Goregaon Police Station Goregaon (W)  Mumbai400062</Data></Cell>
+    <Cell><Data ss:Type="Number">9824504393</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Cinemax</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">City Center Mall Akshar Developers Plot No. 18,Sector 19 D, Palm Beach Road Vashi Navi Mumbai400705</Data></Cell>
+    <Cell><Data ss:Type="Number">9824504427</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Cinemax</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Teen Hath Naka Junction Of Eastern Express Highway L.B.S Marg  Thane400601</Data></Cell>
+    <Cell><Data ss:Type="Number">9824504435</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Cinemax</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Beverly Park Mirabhayandar Road Near Shivar Garoaden Mira Road (E) Thane401107</Data></Cell>
+    <Cell><Data ss:Type="Number">9824504468</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Cinemax</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Chitalsar Manpada Kapur Bawdi Naka Ghodbunder Road  Thane400606</Data></Cell>
+    <Cell><Data ss:Type="Number">9824504476</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Cinemax</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Sion Circle Sion Road   Mumbai400022</Data></Cell>
+    <Cell><Data ss:Type="Number">9824504500</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Cinemax</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Behind Gurunanak Petrol Pump Andheri Kurla Road Andheri (E)  Mumbai400093</Data></Cell>
+    <Cell><Data ss:Type="Number">9824504518</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Cinemax</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Trikamdas Road Sona Shoppositeing Centre Near.Railway Crossng Kandivali (W) Mumbai400067</Data></Cell>
+    <Cell><Data ss:Type="Number">9824504542</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Cinemax</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">City Center Mall Plot No.177 To133, Parking Side 3Road Flooroor Survey No. 747, Lawate Nagar Untwadi Road Nasik422002</Data></Cell>
+    <Cell><Data ss:Type="Number">9824504559</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Cinemax</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">R K Cineplex Road No 2 Banjara Hills  Hyderabad500034</Data></Cell>
+    <Cell><Data ss:Type="Number">9824504583</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Cinemax</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Mani Square Mall Plot No 164/1 Near. Apollo Hospital Em Bypass Road Kolkata700054</Data></Cell>
+    <Cell><Data ss:Type="Number">9824504591</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Cinemax</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Dev Arc Mall Fp 181/1,3Road Floorooroor Opposite. Big Bazaar, S.G Highway  Ahmedabad380015</Data></Cell>
+    <Cell><Data ss:Type="Number">9824504633</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Cinemax</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Suman City Mall Suman Tower, Plot No. 18 Sector No. 11 Gandhi Nagar Gandhinagar382011</Data></Cell>
+    <Cell><Data ss:Type="Number">9824504666</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Cinemax</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Regimental Plaza Mall Survey No. 305 A/2(P) Off. Deolali Shewai Near Bytco Point, Nasik Road Nasik422101</Data></Cell>
+    <Cell><Data ss:Type="Number">9824504674</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Cinemax</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Eternity Mall Variety Square Sita Buroadi Road  Nagpur440012</Data></Cell>
+    <Cell><Data ss:Type="Number">9824504708</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Cinemax</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">College Road Near.Vittal Mandir   Nasik422005</Data></Cell>
+    <Cell><Data ss:Type="Number">9824504716</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Cinemax</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Spring Avenue Mall Survey No. 61, Club Road K D M C .B. Waroad Off Barave Road Khadakpada, Kalyan (W) Thane421301</Data></Cell>
+    <Cell><Data ss:Type="Number">9824504740</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Cinemax</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Growel 101 Next To Big Bazar Akurli Road,Western Express Highway Kandivali E  Mumbai400101</Data></Cell>
+    <Cell><Data ss:Type="Number">9824505192</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Cinemax</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Infinity Mall New Link Road Versova Andheri West  Mumbai400053</Data></Cell>
+    <Cell><Data ss:Type="Number">9824505580</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Cinemax</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Odeon Mall, 194 Vallabh Baugh Lane Etn Pant Nagar,Ghatkopar East  Mumbai400077</Data></Cell>
+    <Cell><Data ss:Type="Number">9824505622</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Cinemax</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Survey No 35 Opposite Hotel Park Estique Vadagaon Sheri ,Nagar Road   Pune411014</Data></Cell>
+    <Cell><Data ss:Type="Number">9824508667</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Cinemax</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Dmrc Plot Community Centre, Khayala Pillar No 464,Najafgarh Road Near Subash Nagar Metro Stn  New Delhi110018</Data></Cell>
+    <Cell><Data ss:Type="Number">9824508675</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Pvr - Mobile: Www.Pvrcinemas.Com</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Please Visit The Website.    Online</Data></Cell>
+    <Cell><Data ss:Type="Number">9824515241</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Pvr</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Avani Riverseide Mall Jagat Banerjee Ghat Road Shibpur  Howrah711102</Data></Cell>
+    <Cell><Data ss:Type="Number">9824518872</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Pvr</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Phoenix United Mall Cp-8, Sector-B, Lda Colony Kanpur Road  Lucknow226001</Data></Cell>
+    <Cell><Data ss:Type="Number">9824534457</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Spice Gold</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">3Road Floorooroor Spice Mall, Bougainvillea Multiplex  &amp; Entert. Centre, Plot No I 2, Sector-25-A Noida201301</Data></Cell>
+    <Cell><Data ss:Type="Number">9824535769</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Spice Cinemas</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">No.25, Mamatha Complex 3Road Floorooroor, Whites Road Royapettah  Chennai600014</Data></Cell>
+    <Cell><Data ss:Type="Number">9824545875</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Spice Cinemas</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">3Road Floorooroor, Express Avenue Mall Whites Road, Royapettah   Chennai600014</Data></Cell>
+    <Cell><Data ss:Type="Number">9824545917</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Spice Cinemas</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">No.8, Thiruvika Road Royapettah   Chennai600014</Data></Cell>
+    <Cell><Data ss:Type="Number">9824545958</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Pvr</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">3Road Floorooroor, Acropolis Mall, Thaltej Char Rasta, Near Gurudwara S G Highway  Ahmedabad380054</Data></Cell>
+    <Cell><Data ss:Type="Number">9824556385</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Fame Cinemas</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Fame Prestige, Prestige Forum Value Mall,Survey# 62, Near Varthur Kodi Whitefield Main Road  Bengaluru560066</Data></Cell>
+    <Cell><Data ss:Type="Number">9824564611</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Pvr</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Vinayak City Centre, 48/24 Saroadar Patel Marg, Civil Lines   Allahabad211001</Data></Cell>
+    <Cell><Data ss:Type="Number">9824584148</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Pvr</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Ampa Skywalk Mall #47/116 9D, Nelson Square Nelson Manickam Road Aminijikarai  Chennai600029</Data></Cell>
+    <Cell><Data ss:Type="Number">9824584189</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Fame Cinemas</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Fame Multiplex Project, 1St Flooroor Fun &amp; Shop Mall,Opposite Bhairoba Nallah Fatima Nagar, Hadapsar  Pune411013</Data></Cell>
+    <Cell><Data ss:Type="Number">9824596548</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Fame Cinemas</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Shalimar Mega Mall 4Th Flooroor, Sector-5, Opposite Shakti Bhavan Panchkula  Panchkula134109</Data></Cell>
+    <Cell><Data ss:Type="Number">9824596555</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Fame Cinemas</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Fame Multiplex, Neelyog Building Patel Chowk, R.B Road Ghatkopar-East  Mumbai400077</Data></Cell>
+    <Cell><Data ss:Type="Number">9824596589</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Fame Cinemas</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Metro Junction Mall Netivali Village, Near Sheel Phata Kalyan-East  Thane421306</Data></Cell>
+    <Cell><Data ss:Type="Number">9824596597</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Fame Cinemas</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Seven Seas Mall, Fame Multiplex Near Fateh Gung Post Offic Near Ipcl Circle Fatigunj  Vadodara390002</Data></Cell>
+    <Cell><Data ss:Type="Number">9824596621</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Fame Cinemas</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Shankernag Theatre,Public Utility Bldg M.G Road   Bengaluru560001</Data></Cell>
+    <Cell><Data ss:Type="Number">9824596662</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Pvr - Directors Cut</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Ambience Mall ,Vasant Kunj Phase-Ii Nelson Mandela Road   New Delhi110070</Data></Cell>
+    <Cell><Data ss:Type="Number">9824617781</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Fame Cinemas</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Dhillon Complex Manimajra    Chandigarh160101</Data></Cell>
+    <Cell><Data ss:Type="Number">9824645725</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Jayaram 5D Cinema</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Shop No : 218, Second Floorooroor Ampa Skywalk 4/11, Poonamallee High Road Aminjikarai  Chennai600029</Data></Cell>
+    <Cell><Data ss:Type="Number">9824659387</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Cinepolis Online - Www.Cinepolisindia.Com</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Please Visit The Website.    Online</Data></Cell>
+    <Cell><Data ss:Type="Number">9824669782</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Inox</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">3Road Floorooroor, Mantri Square, No.1 Sampige Road,Malleswaram   Bengaluru560003</Data></Cell>
+    <Cell><Data ss:Type="Number">9824676241</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Inox</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">5Th Floorooroor,Central, Mantri Junction, 45Th Crossj.P. Nagar 2Nd Phase,   Bengaluru560009</Data></Cell>
+    <Cell><Data ss:Type="Number">9824676282</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Inox</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Shree Rang Palace, Zadeshwar Road,    Bharuch392001</Data></Cell>
+    <Cell><Data ss:Type="Number">9824676365</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Inox</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">4Th Floorooroor,Indore Central, 170, R.N.T.Marg, Regal Square   Indore452001</Data></Cell>
+    <Cell><Data ss:Type="Number">9824676522</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Inox</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">4Th Floorooroor,Pink Square, Raja Park R.N.T.Marg, Regal Square   Jaipur302004</Data></Cell>
+    <Cell><Data ss:Type="Number">9824676563</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Inox</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">3Road Floorooroor,Z Square Mall, Bada Chauraha , M.G. Road   Kanpur208001</Data></Cell>
+    <Cell><Data ss:Type="Number">9824676605</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Inox</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Riverside Mall,Vipin Khand, Gomati Nagar   Lucknow226010</Data></Cell>
+    <Cell><Data ss:Type="Number">9824676688</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Inox</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Korum Mall, Eastern Express Highway Thane W   Thane400606</Data></Cell>
+    <Cell><Data ss:Type="Number">9824676845</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Inox</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Urvarshi Theatre Complex, Andhra Patna Road, Gandhi Nagar   Vijayawada520003</Data></Cell>
+    <Cell><Data ss:Type="Number">9824676928</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Inox</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">3Road Floorooroor Lepl Icon , Patamata   Vijayawada520010</Data></Cell>
+    <Cell><Data ss:Type="Number">9824676969</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Inox</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Varun Beach Mall , Rama Krishna Beach Road,   Vishakapatnam530003</Data></Cell>
+    <Cell><Data ss:Type="Number">9824677009</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Inox</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Cmr Mall, Maddilapalem, Rama Krishna Beach Road,   Vishakapatnam530013</Data></Cell>
+    <Cell><Data ss:Type="Number">9824677041</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Pvr</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Phoenix Market City, Nearbaker Gauges Nagar Road Viman Nagar  Pune411014</Data></Cell>
+    <Cell><Data ss:Type="Number">9824685242</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Cinepolis</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Royal Meenakshi Mall, Bannerghatta Main Road, Hulimavu, Arakere Sub Div, Bommamahalli Range  Bengaluru560076</Data></Cell>
+    <Cell><Data ss:Type="Number">9824689269</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Pvr</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">3Road Floorooroor Orion Mall, Brigade Gateway Dr Rajkumar Road, Rajaji Nagar   Bengaluru560055</Data></Cell>
+    <Cell><Data ss:Type="Number">9824689699</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Q Cinemas-Bangalore</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Ascendes Park Square Mall Itpl Whitefiled Road   Bengaluru560066</Data></Cell>
+    <Cell><Data ss:Type="Number">9824689822</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Osr Cinemas And  Entertainment P.L</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">No 86 3Road Floorooroor Coles Road Frazer Town   Bengaluru560005</Data></Cell>
+    <Cell><Data ss:Type="Number">9824692263</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Pvr</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Pheonix Market City Mall Lbs Road Kurl A West   Mumbai400090</Data></Cell>
+    <Cell><Data ss:Type="Number">9824718720</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Cinemax</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Ap Itc Software Layout Mindspace Hitec City Madhapur Cyberabad   Hyderabad500081</Data></Cell>
+    <Cell><Data ss:Type="Number">9824745368</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Dt Cinemas</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Dlf City Centre, It Park Mani Majra   Chandigarh160101</Data></Cell>
+    <Cell><Data ss:Type="Number">9824776975</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Dt Cinemas</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Village Silokhera Opposite 32 Milestone, Nh-8   Gurgaon122002</Data></Cell>
+    <Cell><Data ss:Type="Number">9824777015</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Dt Cinemas</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">197, Savitri Cinemas G K -Ii   New Delhi110048</Data></Cell>
+    <Cell><Data ss:Type="Number">9824777882</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Pvr Cinemas-Ivr</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Block A 4 Th Floorooroor Bldg- No-9 Dlf Cyber City Ph-3   Gurgaon122002</Data></Cell>
+    <Cell><Data ss:Type="Number">9824782403</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Fame Cinemas</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Fun Republic Bldg ,4Th Floorooroor Plot No 844/4 Shah Industrial Estate Off New Link Road,Andheri W  Mumbai400053</Data></Cell>
+    <Cell><Data ss:Type="Number">9824787527</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Fame Cinemas</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Plot No-10 District Centre,V3S Mall Laxmi Nagar Main Vikas Marg   New Delhi110092</Data></Cell>
+    <Cell><Data ss:Type="Number">9824787535</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Fame Cinemas</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">4Th Floorooroor Sigma Mall Cunningham Road   Bengaluru560052</Data></Cell>
+    <Cell><Data ss:Type="Number">9824787568</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Fame Cinemas</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Plot No. 17, C.S.T. No.1754/1754/1 175 4/2 Muncipal No.1037/38,Municipal Waroad -M (West) K-Star Mall, Chembur  Mumbai400071</Data></Cell>
+    <Cell><Data ss:Type="Number">9824787576</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Fun Cinemas</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Plot No 9B And 9C Central Business District Karkar Doona ,Shahdara   New Delhi110032</Data></Cell>
+    <Cell><Data ss:Type="Number">9824787600</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Fame Cinemas</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Old Natraj Cinema,Moti Nagar    New Delhi110015</Data></Cell>
+    <Cell><Data ss:Type="Number">9824787618</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Fun Cinemas</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Plot No F 1/2/3 District Centre Netaji Subhash Place Wazirpur,Pitampura  New Delhi110034</Data></Cell>
+    <Cell><Data ss:Type="Number">9824787642</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Fun Cinemas-Online: Www.Funcinemas.Com</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Please Visit The Website.    Online</Data></Cell>
+    <Cell><Data ss:Type="Number">9824792824</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Cinemax</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Survey No 504 Link Road Malad W   Mumbai400065</Data></Cell>
+    <Cell><Data ss:Type="Number">9824792907</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Cinemax</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Soul Space Spirit No 89/6,78/7 Belandar Junction,Outer Ring Road,Opposite Acme Factory,Harmony Plaza  Bengaluru560053</Data></Cell>
+    <Cell><Data ss:Type="Number">9824792949</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Cinemax Online - Www.Cinemax.Co.In</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Please Visit The Website.    Online</Data></Cell>
+    <Cell><Data ss:Type="Number">9824797138</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Pvr</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">C/O Mr Neeraj Prakash 61 Basant Lok Vasant Vihar  New Delhi110057</Data></Cell>
+    <Cell><Data ss:Type="Number">9826150443</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Pvr</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">C/O Mr Neeraj Prakash Local Shoppositeing Complex Saket  New Delhi110017</Data></Cell>
+    <Cell><Data ss:Type="Number">9826150484</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Pvr</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">C/O Mr Neeraj Prakash 1 Community Centre Naraina Industrial Area  New Delhi110028</Data></Cell>
+    <Cell><Data ss:Type="Number">9826150526</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Pvr</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">C/O Mr Neeraj Prakash 1 Community Centre Vikaspuri  New Delhi110018</Data></Cell>
+    <Cell><Data ss:Type="Number">9826150609</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Pvr</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Crown Plaza    Faridabad121001</Data></Cell>
+    <Cell><Data ss:Type="Number">9826269458</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Pvr</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">3Road Floor, The Forum Mall 29 Hosur Road Koramangala  Bengaluru560029</Data></Cell>
+    <Cell><Data ss:Type="Number">9826271116</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Pvr</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">H - Block 50, West Regal Building Connaught Place  New Delhi110001</Data></Cell>
+    <Cell><Data ss:Type="Number">9826272643</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Waves</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">L-1, The Centre Stage Mall Sector 18  Noida201301</Data></Cell>
+    <Cell><Data ss:Type="Number">9826273609</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Inox</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Inox Multiplex 5Th Floor Garuda Mall, Opposite Shoppositeers Stop Megarath Road  Bengaluru560025</Data></Cell>
+    <Cell><Data ss:Type="Number">9826286098</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Pvr</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">6-3-673 674 &amp; 675/1 Hyderabad Centre Mall 5Th Floor Punja Gutta Cross Road Near Pgutta Pls St  Hyderabad500082</Data></Cell>
+    <Cell><Data ss:Type="Number">9826286684</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Pvr</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">3Road Floor Sahara Mall   Gurgaon122002</Data></Cell>
+    <Cell><Data ss:Type="Number">9826295081</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Inox</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Opposite Indraprastha Complex Near Natubhai Centre, Racs Course Gopal Bldg, Ellora Park  Vadodara390007</Data></Cell>
+    <Cell><Data ss:Type="Number">9826302507</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Pvr</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">3Road Floor , East Delhi Mall Plot No 1,Kaushambi  Ghaziabad201010</Data></Cell>
+    <Cell><Data ss:Type="Number">9826302895</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Inox</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Cr-2 Opposite Bajaj Bhavan Nariman Point   Mumbai400021</Data></Cell>
+    <Cell><Data ss:Type="Number">9826303083</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Inox</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Plot -D Bund Garoaden Road   Pune411001</Data></Cell>
+    <Cell><Data ss:Type="Number">9826303166</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Inox</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Forum Mall 5Th Floor 10/3 Elgin Road  Kolkata700020</Data></Cell>
+    <Cell><Data ss:Type="Number">9826303174</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Fame Cinemas</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Fame Raghuleela Mall 2Nd Floor Kandivali (W)  Mumbai400067</Data></Cell>
+    <Cell><Data ss:Type="Number">9826478406</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Sathyam Cinemas</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">No 8 Thiru Vi Ka Road Royapettah   Chennai600014</Data></Cell>
+    <Cell><Data ss:Type="Number">9826536013</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Fame Cinemas</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Plot No 621 Oshiwara Andheri Link Road Next To Lakshmi Industrial Estate Andheri West  Mumbai400053</Data></Cell>
+    <Cell><Data ss:Type="Number">9826541070</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Pvr</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">3Road Floor Mgf Metropolitan Mall Mehrauli Gurgaon Road  Gurgaon122001</Data></Cell>
+    <Cell><Data ss:Type="Number">9826544082</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Fame Cinemas</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Level - 2, Inorbit Mall New Link Road Malad West  Mumbai400064</Data></Cell>
+    <Cell><Data ss:Type="Number">9826546863</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Pvr</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Oberoi Mall 3Road Flooroor Near Dindoshi Bus Deport Goregaon East   Mumbai400063</Data></Cell>
+    <Cell><Data ss:Type="Number">9826712549</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Inox</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Sapna Sangeeta Mall 47 Sneh Nagar,Saona Sangeeta Road   Indore452001</Data></Cell>
+    <Cell><Data ss:Type="Number">9826716169</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Inox</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">City Mall 3Road Flooroor,36 G.E Road Nh-6   Raipur492006</Data></Cell>
+    <Cell><Data ss:Type="Number">9826716201</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Inox</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Block Dc Sector-1 City Centre Sali Lake City   Kolkata700064</Data></Cell>
+    <Cell><Data ss:Type="Number">9826716219</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Inox</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">89-C Near Swabhumi,Maulana Abul Kalam Azad Sarani Kankurgachi   Kolkata700054</Data></Cell>
+    <Cell><Data ss:Type="Number">9826716243</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Inox</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Poonam Mall Plot 197,Middle Ring Road Wast Extension Waroadhman Nagar   Nagpur440008</Data></Cell>
+    <Cell><Data ss:Type="Number">9826716250</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Inox</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Jaswant Tuli Mall Indora Square Kamtee Road   Nagpur440026</Data></Cell>
+    <Cell><Data ss:Type="Number">9826716284</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Inox</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">4Th Flooroor Vaibhav Complex Vaishali Nagar Amrapali Circle Jaipur  Jaipur302021</Data></Cell>
+    <Cell><Data ss:Type="Number">9826716292</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Inox</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">4Th Flooroor Crystal Palm P-No.2 Saroadar Patel Marg C-Scheme  Jaipur302001</Data></Cell>
+    <Cell><Data ss:Type="Number">9826716326</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Inox</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Space Cinema Complex,City Plaza Bani Park   Jaipur302006</Data></Cell>
+    <Cell><Data ss:Type="Number">9826716334</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Inox</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">5Th Flooroor Gvr One Road No.1 Banjara Hills   Hyderabad500034</Data></Cell>
+    <Cell><Data ss:Type="Number">9826717977</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Inox</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">2Nd Flooroor Mialan Mall Near Milan Subway Santacruz West   Mumbai400054</Data></Cell>
+    <Cell><Data ss:Type="Number">9826718249</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Inox</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">10-11 Chennai Citi Centre 3Road Flooroor Dr Radhakrishnan Salai Mylapore  Chennai600004</Data></Cell>
+    <Cell><Data ss:Type="Number">9826718256</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Inox</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">4Th Flooroor Swagath Garuda Mall Jayanagar Tilak Nagar Road   Bengaluru560011</Data></Cell>
+    <Cell><Data ss:Type="Number">9826718280</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Inox</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">12/7 Croen Interiorz Mall 3Road Flooroor Near Mathur Road   Faridabad121003</Data></Cell>
+    <Cell><Data ss:Type="Number">9826718298</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Big Cinema</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Bhakti Park Anik Wadala Link Road Wadala   Mumbai400037</Data></Cell>
+    <Cell><Data ss:Type="Number">9826719841</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Big Cinema Online - Www.Bigcinemas.Com</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Please Visit The Website.    Online</Data></Cell>
+    <Cell><Data ss:Type="Number">9826719858</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Big Cinema</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Pacific Mall Plot No.1 Site No.4 Saibabad Industrial Area   Ghaziabad201010</Data></Cell>
+    <Cell><Data ss:Type="Number">9826720401</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Big Cinema</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">511 3Road Flooroor Himalaya Mall Near Indraprasatha Tower Drive In Road   Ahmedabad380052</Data></Cell>
+    <Cell><Data ss:Type="Number">9826720419</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Big Cinema</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Odeon Square D Block Cannaught Place   New Delhi110001</Data></Cell>
+    <Cell><Data ss:Type="Number">9826720443</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Big Cinema</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">3Road Flooroor Ansal Plaza G Block Sector-25 Palam Vihar   Gurgaon122017</Data></Cell>
+    <Cell><Data ss:Type="Number">9826720450</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Big Cinema</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Mari Gold Complex Mariplex Mall Kalyani Nagar   Pune411014</Data></Cell>
+    <Cell><Data ss:Type="Number">9826720484</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Big Cinema</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Roadb Adlabs,Roadb Bouleveroad Block Ep-Gp Behind Infinity Bldg Sector-5 Salt Lake  Kolkata700064</Data></Cell>
+    <Cell><Data ss:Type="Number">9826720526</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Big Cinema</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">The Great India Place Plot No.2 Sector-38/A   Noida201301</Data></Cell>
+    <Cell><Data ss:Type="Number">9826720534</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Big Cinema</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">R Mall Lbs Marg Mulund West    Mumbai400080</Data></Cell>
+    <Cell><Data ss:Type="Number">9826720567</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Big Cinema</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">4Th Flooroor R-City Mall L.B.S Marg Ghatkopar West   Mumbai400071</Data></Cell>
+    <Cell><Data ss:Type="Number">9826720575</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Big Cinema</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">H-Citi Mall 3Road Flooroor Near Kanjurmarg Station Kanjurmarg West   Mumbai400078</Data></Cell>
+    <Cell><Data ss:Type="Number">9826720609</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Big Cinema</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">M.G Road Dhobi Talav    Mumbai400020</Data></Cell>
+    <Cell><Data ss:Type="Number">9826720617</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Big Cinema</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Palm Beach Galleria Palm Beach Road Sector-D 19,Vashi   Navi Mumbai400703</Data></Cell>
+    <Cell><Data ss:Type="Number">9826720641</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Big Cinema</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Plot No.1 Ram Mandir Road Off S.V Road Goregaon West   Mumbai400062</Data></Cell>
+    <Cell><Data ss:Type="Number">9826720682</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Big Cinema</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Ansal Plaza Plot No.1 No.C Near Pari Chowk Express Way Greater Noida  Noida201308</Data></Cell>
+    <Cell><Data ss:Type="Number">9826720690</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Pvr</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Pvr Talkies Deep Bhd Kiran Motors Old Channi Road   Vadodara390002</Data></Cell>
+    <Cell><Data ss:Type="Number">9826732307</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Waves Vip Platinumlounge</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Centrestage Mall 5Th Flooroor,   Noida201301</Data></Cell>
+    <Cell><Data ss:Type="Number">9826733735</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Dt Cinemas</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Dlf Place Saket,Dlf Place Mall 2Nd Flooroor Plot No.A-4 District Centre Saket  New Delhi110017</Data></Cell>
+    <Cell><Data ss:Type="Number">9826744203</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Dt Cinemas</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Dt Mega Mall 3Road Flooroor Dt Mega Mall   Gurgaon122001</Data></Cell>
+    <Cell><Data ss:Type="Number">9826744286</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Dt Cinemas</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Dlf City Centre Ap-Block 4Th Flooroor Shalimar Bagh   New Delhi110088</Data></Cell>
+    <Cell><Data ss:Type="Number">9826744476</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Dt Cinemas</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Dlf Place Vasant Kunj Dt Cinemas 2Nd Flooroor Dlf Place Mall Vasant Kunj Nelson Mandela Road  New Delhi110070</Data></Cell>
+    <Cell><Data ss:Type="Number">9826744518</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Dt Cinemas</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Dlf City Centre 3Road Flooroor Dlf City Centre M.G Road Opposite.Beveraly Park Part - I  Gurgaon  122002</Data></Cell>
+    <Cell><Data ss:Type="Number">9826747354</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Pvr</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Saharaganj Mall Near Park Inn Hotel Hazaratganj  Lucknow  226001</Data></Cell>
+    <Cell><Data ss:Type="Number">9826768749</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Pvr</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Main Lbs Marg Nirmal Lifestyle Mulund West  Mumbai  400080</Data></Cell>
+    <Cell><Data ss:Type="Number">9826768780</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Pvr</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Dinamix Mall Next To Shoppositeer Stop Juhu  Mumbai  400049</Data></Cell>
+    <Cell><Data ss:Type="Number">9826768822</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Pvr</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">4Th Fir Treasure Island 11 Tukoganj M G Road  Indore  452001</Data></Cell>
+    <Cell><Data ss:Type="Number">9826768863</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Pvr</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Flooramez Mall Old Mahar Road Sarabha Nagar   Ludhiana  141001</Data></Cell>
+    <Cell><Data ss:Type="Number">9826768905</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Pvr</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">177 D Industrial Area Phase I Centra Mall  Chandigarh  160002</Data></Cell>
+    <Cell><Data ss:Type="Number">9826768988</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Pvr-Online: Www.Pvrcinemas.Com</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Please Visit The Website.    Online  </Data></Cell>
+    <Cell><Data ss:Type="Number">9826778300</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Pvr</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Pvr Cinema, 1/142, Phoenix Mill Compd. Senapati Bapat Road, Lower Parel-W   Mumbai  400013</Data></Cell>
+    <Cell><Data ss:Type="Number">9826790008</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Fame Cinemas</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Near Lido Ista Hotel Off M G Road Ulsoor  Bengaluru  560008</Data></Cell>
+    <Cell><Data ss:Type="Number">9826826612</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Wave Cinema</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Tdi Paragon Mall,Plot No-02 Shivaji Place Rajouri Garoaden  New Delhi  110027</Data></Cell>
+    <Cell><Data ss:Type="Number">9826852758</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Pvr</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Pvr Rivoli Connaught Place, Opposite Shivaji Stadium Baba Kharak Singh  New Delhi  110001</Data></Cell>
+    <Cell><Data ss:Type="Number">9826856064</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Pvr</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Block-A, Prashant Vihar Funcity Mall, Sector-14 Rohini  New Delhi  110085</Data></Cell>
+    <Cell><Data ss:Type="Number">9826856072</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Fame Cinemas</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Thakur Mall 3Road Floor,Fame Thakur Near Dahisar Check Naka,Dahisar (East)  Mumbai  400068</Data></Cell>
+    <Cell><Data ss:Type="Number">9826864050</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Pvr</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Pvr Premier Select City Walk Mall A3,2Nd Floor,Saket  New Delhi  110017</Data></Cell>
+    <Cell><Data ss:Type="Number">9826869075</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Pvr</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Pvr Ambience Mall,Ambience Mall Pvr Premiere,3Road Flooroor Ambience Mall Island  Gurgaon  122002</Data></Cell>
+    <Cell><Data ss:Type="Number">9826928855</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Fame Cinemas</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Fame Tapadia Multiplex Old Anuradha Cinema Next To Windsor Castle Near Bus Aepot Cidco  Aurangabad  431001</Data></Cell>
+    <Cell><Data ss:Type="Number">9826954406</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Fame Cinemas</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">C/O Fame Nakshatra, Nakshatra Cine Shoppositee, Ranade Road, Dadar Station(W), Dadar  Mumbai  400028</Data></Cell>
+    <Cell><Data ss:Type="Number">9826954448</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Fame Cinemas</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">C/O Fame-Thakur Cinema, Cst No.809 A, 1/11, Village Posiar, Kandivalli(W)   Mumbai  400101</Data></Cell>
+    <Cell><Data ss:Type="Number">9826954489</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Fame Cinemas</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">C/O Fame Jai Ganesh Pune,Jai Ganesh Vision Mall, Behind Greaves Company, Near Olympia Service Station,Akrudi  Pune  411035</Data></Cell>
+    <Cell><Data ss:Type="Number">9826954562</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Fame Cinemas</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">C/O Fame Hiland Park Kolkata, Metropolis Mall, Hiland Park, Opposite. Pearless Hospital, E.M. Bypass  Kolkata  700094</Data></Cell>
+    <Cell><Data ss:Type="Number">9826954604</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Fame Cinemas</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Fame-South City 375 Prince Anwar Shah Road, Jadavpur University  Kolkata  700058</Data></Cell>
+    <Cell><Data ss:Type="Number">9826954729</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Fame Cinemas</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Fame,Raghuleela Mall 3Road Flooroor,Raghuleela Mall,Opposite Vashi Railway Station,Vashi  Mumbai  400703</Data></Cell>
+    <Cell><Data ss:Type="Number">9826967382</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Fame Cinemas</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Fame Adlabs 2Nd Flooroor, Oshiwara Link Road, Andheri(West).  Mumbai  400053</Data></Cell>
+    <Cell><Data ss:Type="Number">9826986192</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63" ss:HRef="http://www.bookmyshow.com/"><Data
+      ss:Type="String">Www.Bookmyshow.Com</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Please Visit The Website.    Online  </Data></Cell>
+    <Cell><Data ss:Type="Number">9826966012</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3" x:Data="&amp;CAXP Internal&amp;L&amp;D&amp;RPage &amp;P of &amp;N"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <Print>
+    <ValidPrinterInfo/>
+    <HorizontalResolution>200</HorizontalResolution>
+    <VerticalResolution>200</VerticalResolution>
+   </Print>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>2</ActiveRow>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+  <AutoFilter x:Range="R1C1:R222C1"
+   xmlns="urn:schemas-microsoft-com:office:excel">
+  </AutoFilter>
+ </Worksheet>
+</Workbook>
