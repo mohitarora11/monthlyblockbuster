@@ -1,18 +1,19 @@
 <?xml version="1.0"?>
 <categories>
 	<category name="Supermarket &amp; Grocery Stores" file="xml/data/SupermarketGroceryStores.xml" icon="supermarket" citysearch="1">
+		<partner name="Reliance Fresh" img="" href="javascript:void(0)" />
 		<partner name="Big Bazaar" img="barbeque.jpg" href="javascript:void(0)" />
+		<partner name="Big Apple" img="" href="javascript:void(0)" />
 		<partner name="More" img="hp.jpg" href="javascript:void(0)" />
-		<partner name="KB's FAIR PRICE" img="samsung.jpg" href="javascript:void(0)" />
+		<partner name="K.B'S Fairprice" img="samsung.jpg" href="javascript:void(0)" />
 		<partner name="EASY DAY" img="samsung.jpg" href="javascript:void(0)" />
-		<partner name="VISHAL MEGAMART" img="samsung.jpg" href="javascript:void(0)" />
-		<partner name="LE MARCHE" img="samsung.jpg" href="javascript:void(0)" />
-		<partner name="NATURE'S BASKET" img="samsung.jpg" href="javascript:void(0)" />
-		<partner name="FOODWORLD" img="samsung.jpg" href="javascript:void(0)" />		
-		<partner name="Needs" img="samsung.jpg" href="javascript:void(0)" />
-		<partner name="Food Hall" img="samsung.jpg" href="javascript:void(0)" />
-	</category>
-	
+		<partner name="Spencers" img="samsung.jpg" href="javascript:void(0)" />
+		<partner name="MAX RETAIL" img="samsung.jpg" href="javascript:void(0)" />		
+		<partner name="Nilgiris" img="samsung.jpg" href="javascript:void(0)" />		
+		<partner name="24x7" img="samsung.jpg" href="javascript:void(0)" />
+		<partner name="FoodWorld" img="samsung.jpg" href="javascript:void(0)" />
+		<partner name="Natures Basket" img="samsung.jpg" href="javascript:void(0)" />
+	</category>	
 	<category name="Standalone Restaurants" file="xml/data/StandaloneRestaurants.xml" icon="dining" citysearch="2">
 		<partner name="CAFE COFEE DAY" img="barbeque.jpg" href="javascript:void(0)" />
 		<partner name="DOMINOS" img="hp.jpg" href="javascript:void(0)" />
@@ -23,9 +24,10 @@
 		<partner name="COSTA COFFEE" img="samsung.jpg" href="javascript:void(0)" />
 		<partner name="SUBWAY" img="samsung.jpg" href="javascript:void(0)" />
 		<partner name="STARBUCKS" img="samsung.jpg" href="javascript:void(0)" />
-		<partner name="HALDIRAM" img="samsung.jpg" href="javascript:void(0)" />
-		<partner name="MAINLAND CHINA" img="samsung.jpg" href="javascript:void(0)" />
-		<partner name="BARBEQUE NATION" img="samsung.jpg" href="javascript:void(0)" />
+		<partner name="Mast Kalandar" img="samsung.jpg" href="javascript:void(0)" />
+		<partner name="Papa Johns" img="samsung.jpg" href="javascript:void(0)" />
+		<partner name="Mad Over Donuts" img="samsung.jpg" href="javascript:void(0)" />
+		<partner name="Dunkin Donuts" img="samsung.jpg" href="javascript:void(0)" />		
 	</category>
 	<category name="Fuel" file="xml/data/Fuel.xml" icon="fuel" citysearch="1">
 		<partner name="HPCL" img="hp.jpg" href="javascript:void(0)" />
@@ -38,21 +40,23 @@
 		<partner name="Inox" img="hp.jpg" href="javascript:void(0)" />
 		<partner name="Fame" img="hp.jpg" href="javascript:void(0)" />
 		<partner name="Satyam" img="hp.jpg" href="javascript:void(0)" />
-	</category>
-	
-	
-	<category name="Telephone &amp; Internet" file="xml/data/TelephoneInternet.xml" icon="communication" citysearch="2">
+	</category>	
+	<category name="Utility &amp; Telecom Bill Payment" file="xml/data/TelephoneInternet.xml" icon="communication" citysearch="2">
 		<partner name="Airtel" img="samsung.jpg" href="javascript:void(0)" />
 		<partner name="Vodafone" img="barbeque.jpg" href="javascript:void(0)" />
 		<partner name="Idea" img="samsung.jpg" href="javascript:void(0)" />
 		<partner name="Reliance" img="samsung.jpg" href="javascript:void(0)" />
-		<partner name="PayTM" img="samsung.jpg" href="javascript:void(0)" />
-		<partner name="FreeCharge" img="samsung.jpg" href="javascript:void(0)" />
-	</category>
-	<category name="Utilities" file="xml/data/Utilites.xml" icon="utility" citysearch="0">
+		<partner name="Idea" img="samsung.jpg" href="javascript:void(0)" />
+		<partner name="Amex EPay" img="samsung.jpg" href="javascript:void(0)" />
 		<partner name="BSES" img="samsung.jpg" href="javascript:void(0)" />
 		<partner name="TATA POWER" img="samsung.jpg" href="javascript:void(0)" />
 		<partner name="MAHANAGAR GAS" img="samsung.jpg" href="javascript:void(0)" />
 		<partner name="RELIANCE ENERGY" img="samsung.jpg" href="javascript:void(0)" />
 	</category>
+<!--	<category name="Utilities" file="xml/data/Utilites.xml" icon="utility" citysearch="0">
+		<partner name="BSES" img="samsung.jpg" href="javascript:void(0)" />
+		<partner name="TATA POWER" img="samsung.jpg" href="javascript:void(0)" />
+		<partner name="MAHANAGAR GAS" img="samsung.jpg" href="javascript:void(0)" />
+		<partner name="RELIANCE ENERGY" img="samsung.jpg" href="javascript:void(0)" />
+	</category>-->
 </categories>

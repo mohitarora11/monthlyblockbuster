@@ -24,10 +24,15 @@
 				homeCategory: 'input[name="category"]',
 				homeSearchForm: '#search_form',
 				opaque: '#opaque',
-				cell: {
+				/*cell: {
 					0: 'nm heading',		//name
 					1: 'add',		// addess
 					2: 'e-m mobid'		// email-mobile
+				}*/
+				cell: {
+					0: 'nm heading',		//name
+					1: 'add'		// addess
+				
 				}
 			}, settings);
 			return this.each(function () {
